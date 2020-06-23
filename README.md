@@ -1,2 +1,2 @@
-# Car-Clustering
-Repo created to understand and use k-means clustering for grouping the similar cars in one cluster.
+# Problem Statement:
+Car Data- Here, we will apply k-means clustering for grouping the similar cars in one cluster
